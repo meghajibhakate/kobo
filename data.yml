@@ -45,18 +45,18 @@
   description: Here you will learn how to create an account in kobotoolbox?
   url: "https://www.youtube.com/watch?v=34Fm2vKy0dY"
   filters: [english]
-  categories: [categories]
+  categories: [Getting Start]
   tags: []
 
 - name: Documentation:- Creating a New Form
   description: Creating a form in KoboToolbox involves using the online form builder to add questions, select question types, and customize the form's appearance.
   url: "https://support.kobotoolbox.org/new_form.html"
   filters: [english]
-  categories: [categories]
+  categories: [Getting Start]
   tags: []
 
 - name: Resources for learning kobo Toolbox Form builder
-  description: While you are using the Kobo Toolbox platform, you may run into issues that need explanation. I recommend that, apart from this course, you also read the Kobo Toolbox documentation.
+  description: While you are using the Kobo Toolbox platform, you may run into issues that need explanation. We recommend that, apart from this course, you also read the Kobo Toolbox documentation.
   url: "https://support.kobotoolbox.org/"
   filters: [english, Documentation]
   categories: [Resources]
@@ -69,14 +69,14 @@
   categories: [Resources]
   tags: []
 
-- name: SDG Quiz template
+- name: None
   description: 
   url: ""
   filters: []
   categories: [FAQ]
   tags: []
 
-- name: SDG Quiz template
+- name: None
   description: 
   url: ""
   filters: []
