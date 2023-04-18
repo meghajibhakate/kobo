@@ -62,10 +62,10 @@
   categories: [Resources]
   tags: []
 
-- name: Example of practice question
-  description: 
-  url: ""
-  filters: []
+- name: Example of practice questions
+  description: This is the example of practice you can use this for practice.
+  url: "https://meghajibhakate.github.io/kobo-Toolkit-site/static/Practice+questionnaire.pdf"
+  filters: [english, Documentation]
   categories: [Resources]
   tags: []
 
