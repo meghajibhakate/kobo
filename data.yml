@@ -1,84 +1,98 @@
 ---
 - name: Video:- What is the Kobotoolbox?
-  description: KoboToolbox is a platform for field data collection in challenging environments. Our software is free and open source and works both online and offline.
+  description: This is a video tutorial and Here you can learn what is the kobotoolbox.
   url: "https://www.youtube.com/watch?v=Eh-yYEwpLAo&t=15s"
   filters: [english, video]
-  categories: [About]
+  categories: [2. About]
   tags: []
 
 - name: Video:- What is the Kobotoolbox? (Hindi)
-  description: KoboToolbox is a platform for field data collection in challenging environments. Our software is free and open source and works both online and offline.
+  description: This is a video tutorial in Hindi and Here you can learn what is the kobotoolbox.
   url: "https://www.youtube.com/watch?v=PMUiFMern6I"
   filters: [hindi, video]
-  categories: [About]
+  categories: [2. About]
   tags: []
 
-- name: Documentation
-  description: KoboToolbox is a platform for field data collection in challenging environments. Our software is free and open source and works both online and offline.
-  url: "https://support.kobotoolbox.org/welcome.html#"
-  filters: [english, Documentation]
-  categories: [About]
+- name: Kobotoolbox Website
+  description: This is the official website of Kobotool, where you can learn more about Kobotool.
+  url: "https://www.kobotoolbox.org/"
+  filters: [english, site]
+  categories: [2. About]
+  tags: []
+
+- name: showcase
+  description: 
+  url: ""
+  filters: [english]
+  categories: [1. Showcase]
   tags: []
 
 - name: SDG Brain Battle Quiz
   description: Quiz is designed to test the knowledge about the Sustainable Development Goals and to help you learn more about these important global goals.
   url: "https://ee.kobotoolbox.org/x/422Y2PPJ"
   filters: [english]
-  categories: [Showcase]
+  categories: [4. Free Template]
   tags: []
 
 - name: Webinar Registration Form
   description: A Webinar Registration Form is an online form that people fill out to register for a webinar.
   url: "https://ee.kobotoolbox.org/x/NLmKNg3d"
   filters: [english]
-  categories: [Showcase]
+  categories: [4. Free Template]
   tags: []
 
 - name: SDG Quiz template
   description: This is the Template of SDG Brain Battle Quiz and you can download and use.
   url: "https://meghajibhakate.github.io/kobo-Toolkit-site/static/SDG-Quiz-questions.xlsx"
   filters: [english]
-  categories: [Template]
+  categories: [4. Free Template]
+  tags: []
+
+- name: Documentation
+  description: This is the documentation provided by Kobotoolbox. By reading this, you can learn what Kobotoolbox is.
+  url: "https://support.kobotoolbox.org/welcome.html#"
+  filters: [english, Documentation]
+  categories: [3. Getting Start]
   tags: []
 
 - name: Account:- How to create a KoboToolbox account?
   description: Here you will learn how to create an account in kobotoolbox?
   url: "https://www.youtube.com/watch?v=34Fm2vKy0dY"
   filters: [english]
-  categories: [Getting Start]
+  categories: [3. Getting Start]
   tags: []
 
-- name: Documentation:- Creating a New Form
+- name: Creating a New Form
   description: Creating a form in KoboToolbox involves using the online form builder to add questions, select question types, and customize the form's appearance.
   url: "https://support.kobotoolbox.org/new_form.html"
   filters: [english]
-  categories: [Getting Start]
+  categories: [3. Getting Start]
   tags: []
 
 - name: Resources for learning kobo Toolbox Form builder
-  description: While you are using the Kobo Toolbox platform, you may run into issues that need explanation. We recommend that, apart from this course, you also read the Kobo Toolbox documentation.
+  description: While you are using the Kobo Toolbox platform, you may run into issues that need explanation. 
   url: "https://support.kobotoolbox.org/"
   filters: [english, Documentation]
-  categories: [Resources]
+  categories: [5. Resources]
   tags: []
 
 - name: Example of practice questions
   description: This is the example of practice you can use this for practice.
   url: "https://meghajibhakate.github.io/kobo-Toolkit-site/static/Practice+questionnaire.pdf"
   filters: [english, Documentation]
-  categories: [Resources]
+  categories: [5. Resources]
   tags: []
 
 - name: None
   description: 
   url: ""
   filters: []
-  categories: [FAQ]
+  categories: [6. Support]
   tags: []
 
 - name: None
   description: 
   url: ""
   filters: []
-  categories: [FAQ]
+  categories: [6. Support]
   tags: []
