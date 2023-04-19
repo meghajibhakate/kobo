@@ -20,9 +20,23 @@
   categories: [2. About]
   tags: []
 
-- name: showcase
-  description: 
-  url: ""
+- name: Caribbean Development Bank
+  description: How the Caribbean Development Bank is using KoboToolbox to enhance community resilience in the Caribbean.
+  url: "https://www.kobotoolbox.org/blog/how-the-caribbean-development-bank-is-using-kobotoolbox-to-enhance-community-resilience-in-the-caribbean"
+  filters: [english]
+  categories: [1. Showcase]
+  tags: []
+
+- name: Support girls’ resistance in Sierra Leone
+  description: How KoboToolbox and Purposeful’s radio drama show support girls’ resistance in Sierra Leone.
+  url: "https://www.kobotoolbox.org/blog/how-kobotoolbox-and-purposefuls-radio-drama-show-support-girls-resistance-in-sierra-leone"
+  filters: [english]
+  categories: [1. Showcase]
+  tags: []
+
+- name: Documenting Attacks on Health Care 
+  description: How the Health Care in Syria is using KoboToolbox to Documenting Attacks on Health Care in Syria.
+  url: "https://www.kobotoolbox.org/blog/documenting-attacks-on-health-care-in-syria"
   filters: [english]
   categories: [1. Showcase]
   tags: []
@@ -49,7 +63,7 @@
   tags: []
 
 - name: Documentation
-  description: This is the documentation provided by Kobotoolbox. By reading this, you can learn what Kobotoolbox is.
+  description: This is the official documentation provided by Kobotoolbox. By reading this, you can learn what Kobotoolbox is.
   url: "https://support.kobotoolbox.org/welcome.html#"
   filters: [english, Documentation]
   categories: [3. Getting Start]
@@ -83,16 +97,23 @@
   categories: [5. Resources]
   tags: []
 
-- name: None
-  description: 
-  url: ""
-  filters: []
+- name: Community Forum
+  description: The community at Kobotoolbox.org is a platform for users to collaborate, troubleshoot, and share knowledge. It provides a support network for those using Kobo Toolbox and offers resources such as tutorials and documentation.
+  url: "https://community.kobotoolbox.org/"
+  filters: [english]
   categories: [6. Support]
   tags: []
 
-- name: None
-  description: 
-  url: ""
-  filters: []
+- name: Telegram Group
+  description: If you have any questions or doubts that you'd like to ask, please feel free to join our Telegram group and ask away.
+  url: "https://t.me/+XSwrYVaFUKBlZWE1"
+  filters: [english]
+  categories: [6. Support]
+  tags: []
+
+- name: Kobotool Support
+  description: The support page at support.kobotoolbox.org provides resources and assistance for users of Kobo Toolbox, an open-source tool for field data collection. It offers user guides, tutorials, and troubleshooting tips, as well as a platform for submitting support requests and receiving assistance from the Kobo Toolbox team. Overall, the support page is a valuable resource for those using Kobo Toolbox in their work.
+  url: "https://support.kobotoolbox.org/"
+  filters: [english]
   categories: [6. Support]
   tags: []
