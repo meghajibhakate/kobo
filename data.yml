@@ -72,14 +72,14 @@
 - name: Account:- How to create a KoboToolbox account?
   description: Here you will learn how to create an account in kobotoolbox?
   url: "https://www.youtube.com/watch?v=34Fm2vKy0dY"
-  filters: [english]
+  filters: [english, video]
   categories: [3. Getting Start]
   tags: []
 
 - name: Creating a New Form
   description: Creating a form in KoboToolbox involves using the online form builder to add questions, select question types, and customize the form's appearance.
   url: "https://support.kobotoolbox.org/new_form.html"
-  filters: [english]
+  filters: [english, Documentation]
   categories: [3. Getting Start]
   tags: []
 
@@ -91,7 +91,7 @@
   tags: []
 
 - name: Example of practice questions
-  description: This is the example of practice you can use this for practice.
+  description: This is the example of practice questions you can use this for practice.
   url: "https://meghajibhakate.github.io/kobo-Toolkit-site/static/Practice+questionnaire.pdf"
   filters: [english, Documentation]
   categories: [5. Resources]
