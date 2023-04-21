@@ -44,21 +44,21 @@
 - name: SDG Brain Battle Quiz
   description: Quiz is designed to test the knowledge about the Sustainable Development Goals and to help you learn more about these important global goals.
   url: "https://ee.kobotoolbox.org/x/422Y2PPJ"
-  filters: [english]
+  filters: [english, form]
   categories: [4. Free Template]
   tags: []
 
 - name: Webinar Registration Form
   description: A Webinar Registration Form is an online form that people fill out to register for a webinar.
   url: "https://ee.kobotoolbox.org/x/NLmKNg3d"
-  filters: [english]
+  filters: [english, form]
   categories: [4. Free Template]
   tags: []
 
 - name: SDG Quiz template
   description: This is the Template of SDG Brain Battle Quiz and you can download and use.
   url: "https://meghajibhakate.github.io/kobo-Toolkit-site/static/SDG-Quiz-questions.xlsx"
-  filters: [english]
+  filters: [english, PDF]
   categories: [4. Free Template]
   tags: []
 
