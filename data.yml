@@ -45,21 +45,21 @@
   description: Quiz is designed to test the knowledge about the Sustainable Development Goals and to help you learn more about these important global goals.
   url: "https://ee.kobotoolbox.org/x/422Y2PPJ"
   filters: [english, form]
-  categories: [4. Free Template]
+  categories: [5. Free Template]
   tags: []
 
 - name: Webinar Registration Form
   description: A Webinar Registration Form is an online form that people fill out to register for a webinar.
   url: "https://ee.kobotoolbox.org/x/NLmKNg3d"
   filters: [english, form]
-  categories: [4. Free Template]
+  categories: [5. Free Template]
   tags: []
 
 - name: SDG Quiz template
   description: This is the Template of SDG Brain Battle Quiz and you can download and use.
   url: "https://meghajibhakate.github.io/kobo-Toolkit-site/static/SDG-Quiz-questions.xlsx"
   filters: [english, PDF]
-  categories: [4. Free Template]
+  categories: [5. Free Template]
   tags: []
 
 - name: Documentation
@@ -87,14 +87,14 @@
   description: While you are using the Kobo Toolbox platform, you may run into issues that need explanation. 
   url: "https://support.kobotoolbox.org/"
   filters: [english, Documentation]
-  categories: [5. Resources]
+  categories: [4. Resources]
   tags: []
 
 - name: Example of practice questions
   description: This is the example of practice questions you can use this for practice.
   url: "https://meghajibhakate.github.io/kobo-Toolkit-site/static/Practice+questionnaire.pdf"
   filters: [english, Documentation]
-  categories: [5. Resources]
+  categories: [4. Resources]
   tags: []
 
 - name: Community Forum
