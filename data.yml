@@ -58,7 +58,14 @@
 - name: SDG Quiz template
   description: This is the Template of SDG Brain Battle Quiz and you can download and use.
   url: "https://meghajibhakate.github.io/kobo-Toolkit-site/static/SDG-Quiz-questions.xlsx"
-  filters: [english, PDF]
+  filters: [english, XLS]
+  categories: [5. Free Template]
+  tags: []
+
+- name: 1. Using XLSForm Templates in Kobotoolbox
+  description: Read this documentation and learn how to use XLS form templates in Kobotoolbox.
+  url: "https://support.kobotoolbox.org/getting_started_xlsform.html"
+  filters: [english, Documentation]
   categories: [5. Free Template]
   tags: []
 
