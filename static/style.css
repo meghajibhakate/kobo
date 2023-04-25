@@ -256,12 +256,6 @@ footer {
 	padding: 10px;
 	border-radius: 3px;
 }
-	/* .kit-submit.box {
-		border: 1px solid #45cd7beb;
-		border-radius: 5px;
-		background-color: #E0FFEC;
-		color: #666;
-	} */
 
 	.kit-submit.box:hover {
 		border: 1px solid #2db563eb;
@@ -269,9 +263,7 @@ footer {
 	}
 
 /* ************************* */
-/* .foot-link{
-	color: #38a463;
-} */
+
 .btn-section{
 	display: flex;
     justify-content: start;
