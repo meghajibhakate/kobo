@@ -1,26 +1,26 @@
 ---
-- name: Video:- What is the Kobotoolbox?
+- name: 2. Video:- What is the Kobotoolbox?
   description: This is a video tutorial and Here you can learn what is the kobotoolbox.
   url: "https://www.youtube.com/watch?v=Eh-yYEwpLAo&t=15s"
   filters: [english, video]
   categories: [2. About]
   tags: []
 
-- name: Video:- What is the Kobotoolbox? (Hindi)
+- name: 3. Video:- What is the Kobotoolbox? (Hindi)
   description: This is a video tutorial in Hindi and Here you can learn what is the kobotoolbox.
   url: "https://www.youtube.com/watch?v=PMUiFMern6I"
   filters: [hindi, video]
   categories: [2. About]
   tags: []
 
-- name: Kobotoolbox Website
+- name: 1. Kobotoolbox Website
   description: This is the official website of Kobotool, where you can learn more about Kobotool.
   url: "https://www.kobotoolbox.org/"
   filters: [english, site]
   categories: [2. About]
   tags: []
 
-- name: Features
+- name: 4. Features
   description: KoboToolbox was made with the needs of field practitioners in mind. It is extremely user friendly and accessible, making it easy to get started quickly. It works offline, on any device. Most importantly, all its core functionalities are free to use, forever.
   url: "https://www.kobotoolbox.org/features/"
   filters: [english]
@@ -115,63 +115,63 @@
   description: This is the official documentation provided by Kobotoolbox. By reading this, you can learn what Kobotoolbox is.
   url: "https://support.kobotoolbox.org/welcome.html#"
   filters: [english, Documentation]
-  categories: [3. Getting Start]
+  categories: [3. Getting Started]
   tags: []
 
 - name: 1. Account:- How to create a KoboToolbox account?
   description: Here you will learn how to create an account in kobotoolbox?
   url: "https://www.youtube.com/watch?v=34Fm2vKy0dY"
   filters: [english, video]
-  categories: [3. Getting Start]
+  categories: [3. Getting Started]
   tags: []
 
 - name: 2. The KoboToolbox Interface
   description: This article will walk you through the KoboToolbox interface, helping you get familiar with the different elements.
   url: "https://support.kobotoolbox.org/kobotoolbox_interface.html"
   filters: [english]
-  categories: [3. Getting Start]
+  categories: [3. Getting Started]
   tags: []
 
 - name: 3. Quick Start Overview
   description: Here’s how to quickly get started with a new form, deploy it as a survey project, and start collecting data in the field.
   url: "https://support.kobotoolbox.org/quick_start.html"
   filters: [english]
-  categories: [3. Getting Start]
+  categories: [3. Getting Started]
   tags: []
 
 - name: 4. Creating a New Form
   description: Creating a form in KoboToolbox involves using the online form builder to add questions, select question types, and customize the form's appearance.
   url: "https://support.kobotoolbox.org/new_form.html"
   filters: [english]
-  categories: [3. Getting Start]
+  categories: [3. Getting Started]
   tags: []
   
 - name: 5. List of Question Types
   description: The response types available to use in Kobotool box.
   url: "https://support.kobotoolbox.org/question_types.html#"
   filters: [english]
-  categories: [3. Getting Start]
+  categories: [3. Getting Started]
   tags: []
 
 - name: 6. Getting started with XLSForm
   description: This article will show you how to use an XLSForm using Microsoft Excel.
   url: "https://support.kobotoolbox.org/getting_started_xlsform.html"
   filters: [english]
-  categories: [3. Getting Start]
+  categories: [3. Getting Started]
   tags: []
 
 - name: 7. Overview of All Formbuilder Functions
   description: In this you will learn Adding a Question, Adding a question hint, Deleting a Question etc..
   url: "https://support.kobotoolbox.org/formbuilder.html"
   filters: [english]
-  categories: [3. Getting Start]
+  categories: [3. Getting Started]
   tags: []
 
 - name: 8. Deploying a Form to Start a New Data Collection Project
   description: Here you will learn how to deploy forms in kobotoolbox.
   url: "https://support.kobotoolbox.org/deploy_form_new_project.html?highlight=deploy"
   filters: [english]
-  categories: [3. Getting Start]
+  categories: [3. Getting Started]
   tags: []
 
 - name: Resources for learning kobo Toolbox Form builder
