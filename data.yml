@@ -97,6 +97,13 @@
   categories: [5. Free Template]
   tags: []
 
+- name: सतस विकास MCQ (Sustainable Development Goals)
+  description: This is the hindi form of SDG in MCQ formate.
+  url: "https://ee.kobotoolbox.org/x/wBDtVjQB"
+  filters: [Hindi, form]
+  categories: [5. Free Template]
+  tags: []
+
 - name: 1. Using XLSForm Templates in Kobotoolbox
   description: Read this documentation and learn how to use XLS form templates in Kobotoolbox.
   url: "https://support.kobotoolbox.org/getting_started_xlsform.html"
