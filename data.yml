@@ -1,76 +1,224 @@
-- name: Simple, Free, Useful Telegram Bots for Changemakers
-  description: Activate your creativity. Send us your ideas for telegram bots that can help your mission.
-  url: "https://bots4good.org/"
-  filters: [telegram-bots, about, moto]
-  categories: [1. About]
-  tags: [ABOUT]
+---
+- name: 2. Video:- What is the Kobotoolbox?
+  description: This is a video tutorial and Here you can learn what is the kobotoolbox.
+  url: "https://www.youtube.com/watch?v=Eh-yYEwpLAo&t=15s"
+  filters: [english, video]
+  categories: [3. About]
+  tags: []
 
-- name: 1. Subscribe to the bot
-  description: To start receiving notifications, simply click on the link to the bot you're interested in and hit the "Start" button.
-  url: "https://te.legra.ph/file/0af6a0f0aaccd138f6b60.mp4"
-  filters: [subscribe, bot]
-  categories: [1. Videos]
-  tags: [VIDEOS]
+- name: 3. Video:- What is the Kobotoolbox? (Hindi)
+  description: This is a video tutorial in Hindi and Here you can learn what is the kobotoolbox.
+  url: "https://www.youtube.com/watch?v=PMUiFMern6I"
+  filters: [hindi, video]
+  categories: [3. About]
+  tags: []
 
-- name: 2. Receive Notifications
-  description: Once you've subscribed to a bot, you'll receive notifications every time a new article is posted on the IDR website (for the English and Hindi bots) or when there is a new post or discussion on the Tech4Good forum (for the Tech4Good bot). You can choose to receive notifications in real-time or at a frequency that works for you.
-  url: "https://te.legra.ph/file/13392b8a5476def816766.mp4"
-  filters: [bot, notifications]
-  categories: [1. Videos]
-  tags: [VIDEOS]
+- name: 1. Kobotoolbox Website
+  description: This is the official website of Kobotool, where you can learn more about Kobotool.
+  url: "https://www.kobotoolbox.org/"
+  filters: [english, site]
+  categories: [3. About]
+  tags: []
 
-- name: 3. Interactive Menu buttons
-  description: We have connected menu commands with useful resources. So, go ahead and click on each button to explore the connected websites and forums!
-  url: "https://te.legra.ph/file/60821c2cf7e2d594ca6c9.mp4"
-  filters: [bot, menu-buttons]
-  categories: [1. Videos]
-  tags: [VIDEOS]
+- name: 4. Features
+  description: KoboToolbox was made with the needs of field practitioners in mind. It is extremely user friendly and accessible, making it easy to get started quickly. It works offline, on any device. Most importantly, all its core functionalities are free to use, forever.
+  url: "https://www.kobotoolbox.org/features/"
+  filters: [english]
+  categories: [3. About]
+  tags: []
 
-- name: 1. Tech4GoodBot
-  description: Tech4Good Forum is a community-driven platform for social change, where changemakers, social entrepreneurs, and tech enthusiasts come together to discuss and share their knowledge and experiences around technology for social good. Get notifications about the latest discussions, events, job opportunities, skilling programs, and toolkits directly on your Telegram app.
-  url: "https://telegram.me/Tech4GoodBot"
-  filters: [bot, open-source, tech4goodbot]
-  categories: [3. Bots List]
-  tags: [114 Chats]
+- name: Caribbean Development Bank
+  description: How the Caribbean Development Bank is using KoboToolbox to enhance community resilience in the Caribbean.
+  url: "https://www.kobotoolbox.org/blog/how-the-caribbean-development-bank-is-using-kobotoolbox-to-enhance-community-resilience-in-the-caribbean"
+  filters: [finance]
+  categories: [1. Showcase]
+  tags: []
 
-- name: 2. IDR Online English Bot
-  description: Stay up-to-date with the latest articles and insights from India Development Review (IDR), a leading platform for insights and analysis on social impact and innovation. Get notifications every time a new English article is posted on the IDR website, directly on your Telegram app.
-  url: "https://telegram.me/Idronline_english_bot"
-  filters: [IDR-English-Bot, bot, open-source]
-  categories: [3. Bots List]
-  tags: [13 Chats]
+- name: Support girls’ resistance in Sierra Leone
+  description: How KoboToolbox and Purposeful’s radio drama show support girls’ resistance in Sierra Leone.
+  url: "https://www.kobotoolbox.org/blog/how-kobotoolbox-and-purposefuls-radio-drama-show-support-girls-resistance-in-sierra-leone"
+  filters: [Community engagement]
+  categories: [1. Showcase]
+  tags: []
 
-- name: 3. IDR Online Hindi Bot
-  description: हिंदी भाषी दर्शकों के लिए, हमारे पास एक बॉट है जो IDR वेबसाइट पर हिंदी में नया आलेख पोस्ट होने पर हर बार सूचनाएं भेजता है। भारत डेवलपमेंट रिव्यू (IDR), एक सोशल इम्पैक्ट और इनोवेशन पर विचारों और विश्लेषण करने के लिए एक अग्रणी मंच से नवीनतम लेखों और दृष्टिकोणों से अपडेट रहें। अपने टेलीग्राम ऐप पर हर बार जब भी एक नया हिंदी आलेख IDR वेबसाइट पर पोस्ट होता है, सीधे सूचनाएं प्राप्त करें।
-  url: "https://telegram.me/Idr_online_hindi_bot"
-  filters: [IDR-Hindi-Bot, bot, open-source]
-  categories: [3. Bots List]
-  tags: [16 Chats]
+- name: The Syrian Refugee Crisis in Lebanon and how KoboToolbox is aiding humanitarian efforts
+  description: The United Nations High Commissioner for Refugees, UNHCR, is leading humanitarian efforts for refugees within Lebanon — Syria’s neighbour who the continued crisis has particularly hard hit.
+  url: "https://www.kobotoolbox.org/blog/the-syrian-refugee-crisis-in-lebanon-and-how-kobotoolbox-is-aiding-humanitarian-efforts"
+  filters: [Humanitarian]
+  categories: [1. Showcase]
+  tags: []
 
-- name: Jinso Raj
-  description: Full stack Developer Fellow at Tech4Good. Developed Tech4Good Bot.
-  url: ""
-  filters: [developer, tech4goodbot]
-  categories: [4. Team]
-  tags: [DEV]
+- name: How KoboToolbox supports equity, social justice, and rural development in the Philippines
+  description: Across the Philippines, farmers have waited several decades to receive their land titles granted under an agrarian reform program.
+  url: "https://www.kobotoolbox.org/blog/how-kobotoolbox-supports-equity-social-justice-and-rural-development-in-the-philippines"
+  filters: [Economic development]
+  categories: [1. Showcase]
+  tags: []
 
-- name: Lily Sneha Lakra
-  description: Front-End Developer Fellow at Tech4Good. Developed IDR Online English Bot.
-  url: ""
-  filters: [developer, idr-english-bot]
-  categories: [4. Team]
-  tags: [DEV]
+- name: How the IFRC is using KoboToolbox to support efforts in Ukraine
+  description: Owing to conflict escalation in Ukraine, the International Federation of Red Cross and Red Crescent Societies (IFRC) and national Red Cross organizations have been dedicating significant resources to supporting the needs of people impacted by the conflict.
+  url: "https://www.kobotoolbox.org/blog/how-the-ifrc-is-using-kobotoolbox-to-support-efforts-in-ukraine"
+  filters: [Disaster response]
+  categories: [1. Showcase]
+  tags: []
+
+- name: How KoboToolbox helps to track attacks on education
+  description: As attacks on education are becoming more common, it is essential to have accessible data for accountability purposes and to inspire policy. 
+  url: "https://www.kobotoolbox.org/blog/how-kobotoolbox-helps-to-track-attacks-on-education"
+  filters: [Human rights]
+  categories: [1. Showcase]
+  tags: []
+
+- name: Documenting Attacks on Health Care 
+  description: How the Health Care in Syria is using KoboToolbox to Documenting Attacks on Health Care in Syria.
+  url: "https://www.kobotoolbox.org/blog/documenting-attacks-on-health-care-in-syria"
+  filters: [Health]
+  categories: [1. Showcase]
+  tags: []
+
+- name: SDG Brain Battle Quiz
+  description: Quiz is designed to test the knowledge about the Sustainable Development Goals and to help you learn more about these important global goals.
+  url: "https://ee.kobotoolbox.org/x/422Y2PPJ"
+  filters: [english, form]
+  categories: [2. Free Template]
+  tags: []
+
+- name: Webinar Registration Form
+  description: A Webinar Registration Form is an online form that people fill out to register for a webinar.
+  url: "https://ee.kobotoolbox.org/x/NLmKNg3d"
+  filters: [english, form]
+  categories: [2. Free Template]
+  tags: []
+
+- name: SDG Quiz template
+  description: This is the Template of SDG Brain Battle Quiz and you can download and use.
+  url: "https://meghajibhakate.github.io/kobo-Toolkit-site/static/SDG-Quiz-questions.xlsx"
+  filters: [english, XLS]
+  categories: [2. Free Template]
+  tags: []
+
+- name: सतस विकास MCQ (Sustainable Development Goals)
+  description: This is the hindi form of SDG in MCQ formate.
+  url: "https://ee.kobotoolbox.org/x/wBDtVjQB"
+  filters: [Hindi, form]
+  categories: [2. Free Template]
+  tags: []
+
+- name: 1. Using XLSForm Templates in Kobotoolbox
+  description: Read this documentation and learn how to use XLS form templates in Kobotoolbox.
+  url: "https://support.kobotoolbox.org/getting_started_xlsform.html"
+  filters: [english, Documentation]
+  categories: [2. Free Template]
+  tags: []
+
+- name: Documentation
+  description: This is the official documentation provided by Kobotoolbox. By reading this, you can learn what Kobotoolbox is.
+  url: "https://support.kobotoolbox.org/welcome.html#"
+  filters: [english, Documentation]
+  categories: [4. Getting Started]
+  tags: []
+
+- name: 1. Account:- How to create a KoboToolbox account?
+  description: Here you will learn how to create an account in kobotoolbox?
+  url: "https://www.youtube.com/watch?v=34Fm2vKy0dY"
+  filters: [english, video]
+  categories: [4. Getting Started]
+  tags: []
+
+- name: 2. The KoboToolbox Interface
+  description: This article will walk you through the KoboToolbox interface, helping you get familiar with the different elements.
+  url: "https://support.kobotoolbox.org/kobotoolbox_interface.html"
+  filters: [english]
+  categories: [4. Getting Started]
+  tags: []
+
+- name: 3. Quick Start Overview
+  description: Here’s how to quickly get started with a new form, deploy it as a survey project, and start collecting data in the field.
+  url: "https://support.kobotoolbox.org/quick_start.html"
+  filters: [english]
+  categories: [4. Getting Started]
+  tags: []
+
+- name: 4. Creating a New Form
+  description: Creating a form in KoboToolbox involves using the online form builder to add questions, select question types, and customize the form's appearance.
+  url: "https://support.kobotoolbox.org/new_form.html"
+  filters: [english]
+  categories: [4. Getting Started]
+  tags: []
+  
+- name: 5. List of Question Types
+  description: The response types available to use in Kobotool box.
+  url: "https://support.kobotoolbox.org/question_types.html#"
+  filters: [english]
+  categories: [4. Getting Started]
+  tags: []
+
+- name: 6. Getting started with XLSForm
+  description: This article will show you how to use an XLSForm using Microsoft Excel.
+  url: "https://support.kobotoolbox.org/getting_started_xlsform.html"
+  filters: [english]
+  categories: [4. Getting Started]
+  tags: []
+
+- name: 7. Overview of All Formbuilder Functions
+  description: In this you will learn Adding a Question, Adding a question hint, Deleting a Question etc..
+  url: "https://support.kobotoolbox.org/formbuilder.html"
+  filters: [english]
+  categories: [4. Getting Started]
+  tags: []
+
+- name: 8. Deploying a Form to Start a New Data Collection Project
+  description: Here you will learn how to deploy forms in kobotoolbox.
+  url: "https://support.kobotoolbox.org/deploy_form_new_project.html?highlight=deploy"
+  filters: [english]
+  categories: [4. Getting Started]
+  tags: []
+
+- name: Resources for learning kobo Toolbox Form builder
+  description: While you are using the Kobo Toolbox platform, you may run into issues that need explanation. 
+  url: "https://support.kobotoolbox.org/"
+  filters: [english, Documentation]
+  categories: [5. Resources]
+  tags: []
+
+- name: Example of practice questions
+  description: This is the example of practice questions you can use this for practice.
+  url: "https://meghajibhakate.github.io/kobo-Toolkit-site/static/Practice+questionnaire.pdf"
+  filters: [english, Documentation]
+  categories: [5. Resources]
+  tags: []
+
+- name: Community Forum
+  description: The community at Kobotoolbox.org is a platform for users to collaborate, troubleshoot, and share knowledge. It provides a support network for those using Kobo Toolbox and offers resources such as tutorials and documentation.
+  url: "https://community.kobotoolbox.org/"
+  filters: [english]
+  categories: [6. Support]
+  tags: []
+
+- name: Telegram Group
+  description: If you have any questions or doubts that you'd like to ask, please feel free to join our Telegram group and ask away.
+  url: "https://t.me/+XSwrYVaFUKBlZWE1"
+  filters: [Group]
+  categories: [6. Support]
+  tags: []
+
+- name: Kobotool Support
+  description: The support page at support.kobotoolbox.org provides resources and assistance for users of Kobo Toolbox, an open-source tool for field data collection. It offers user guides, tutorials, and troubleshooting tips, as well as a platform for submitting support requests and receiving assistance from the Kobo Toolbox team. Overall, the support page is a valuable resource for those using Kobo Toolbox in their work.
+  url: "https://support.kobotoolbox.org/"
+  filters: [english]
+  categories: [6. Support]
+  tags: []
 
 - name: Megha Jibhakate
-  description: Front-End Developer Fellow at Tech4Good. Developed IDR Online Hindi Bot.
-  url: ""
-  filters: [developer, idr-hindi-bot]
-  categories: [4. Team]
-  tags: [DEV]
+  description: Megha is a Tech4Good Fellow at T4G Labs. Can help with you Kobotoolbox.
+  url: "https://www.linkedin.com/in/megha-jibhakate/"
+  filters: [Trainer]
+  categories: [6. Support]
+  tags: []
 
-- name: Support Chat
-  description: Activate your creativity. Send us your ideas for telegram bots that can help your mission.
-  url: "https://telegram.me/tech4goodlabs/11"
-  filters: [support-chat, telegram-group]
-  categories: [5. Support]
-  tags: [GROUP]
+- name: Lily Lakra
+  description: Lily is a Tech4Good Fellow at T4G Labs. Can help with you Kobotoolbox.
+  url: "https://www.linkedin.com/in/lily-sneha-lakra/"
+  filters: [Trainer]
+  categories: [6. Support]
+  tags: []

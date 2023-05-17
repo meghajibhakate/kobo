@@ -32,9 +32,9 @@ a {
 	text-decoration: none;
 }
 	a:hover {
-		border-bottom: 2px solid #1b91cf;
+		border-bottom: 2px solid #259af4;
 	}
-	
+
 p {
 	margin: 0 0 10px 0;
 }
@@ -65,6 +65,7 @@ footer {
 	width: 100%;
 	display: flex;
 	margin-bottom: 15px;
+	/* *** */
 	flex-direction: column;
 
 }
@@ -93,7 +94,7 @@ footer {
 			border: 0;
 		}
 		#burger:hover span {
-			background: #1b91cf;
+			background: #259af4;
 		}
 
 .container {
@@ -107,7 +108,7 @@ footer {
 		font-style: capitalize;
 	}
 	.sidebar li.selected a {
-		border-bottom: 2px solid #1b91cf;
+		border-bottom: 2px solid #259af4;
 	}
 .content {
 	flex: 75%;
@@ -158,8 +159,8 @@ footer {
 	border-radius: 3px;
 }
 	.tag.lang {
-		background: #b9fcd4;
-		color: #1b91cf;
+		background: #259af4;
+		color: #f1f1f1;
 	}
 
 	/* Show max 5 tags and the "Reveal" link next to it */
@@ -276,6 +277,6 @@ footer {
 	padding: 4px 30px 0px 30px;
 }
 
-/* #foot-link{
+#foot-link{
 	color: #1577c2;
-} */
+}
